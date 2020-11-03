@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Scientist - Analyst Portfolio on Ben Yassine Mohamed</title>
+    <link>https://benyassine-mohamed.github.io/MBY-portfolio/./</link>
+    <description>Recent content in Data Scientist - Analyst Portfolio on Ben Yassine Mohamed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Apr 2020 11:15:58 -0400</lastBuildDate>
+    
+	<atom:link href="https://benyassine-mohamed.github.io/MBY-portfolio/./index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PROJET 1: TRAVAIL DE RECHERCHE EN STATISTIQUE SPACIALE </title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet1/</link>
+      <pubDate>Mon, 13 Apr 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet1/</guid>
+      <description>Ce projet de recherche consiste à éclaircir la notion de statistique spatiale, il existe beaucoup de domaines de recherche où les données ont pour point commun d’être localisées dans l’espace géographique et d’être ni indépendantes, ni identiquement distribuées.
+Application numérique
+J&amp;rsquo;ai utilisé la méthode de Krigeage sur le langage R sur les données de la pollution de l’air en Californie. pour interpoler des données spatial et j&amp;rsquo;ai comparé cette méthode avec deux autres méthodes d’interpolations spatiale à savoir :</description>
+    </item>
+    
+    <item>
+      <title>PROJET 2: NETTOYAGE ET MANIPULATION DE DONNÉES SUR R</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet2/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet2/</guid>
+      <description>Nettoyage de données La description des problèmes de qualité et de formatage. Le calculer des statistiques pertinentes. La visualisation des résultats en utilisant la librairie ggplot2.   lien vers le projet</description>
+    </item>
+    
+    <item>
+      <title>PROJET 3:  ANALYSES DE DONNÉES MASSIVES EN CUBE OLAP SUR LE FOND DOCUMENTAIRE DES BIBLIOTHÈQUES SPÉCIALISÉS PARISIENNE EN PYTHON</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet3/</link>
+      <pubDate>Fri, 10 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet3/</guid>
+      <description>Nettoyage et exploration des données.
+  La méthodologie utilisée pour analyser le jeu de données et les différentes étapes qui m&amp;rsquo;ont permis d’aboutir au résultat final.
+  Une description des dimensions du cube d’analyse ainsi que la granularité de chaque des dimensions Pour les paires de dimensions pertinentes, j&amp;rsquo;ai produit des visualisations graphiques adaptées.
+    lien vers le projet</description>
+    </item>
+    
+    <item>
+      <title>PROJET 4: CRÉATION D&#39;UN SITE INTERNET RESPONSIVE DESIGN</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet4/</link>
+      <pubDate>Thu, 12 Dec 2019 12:00:59 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet4/</guid>
+      <description>Quel a été notre objectif ?
+Réaliser une copie d’un site internet lié à la nourriture, comme marmiton ou encore 700 grammes. Cependant le site devant respecter différents critères de présentation j&amp;rsquo;ai décidé de simplifier le fonctionnement et aussi de réaliser certaines pages loufoque dans le sens où il n’est pas généralement pas commun de voir ce genre de page.
+Le site est composé de 5 pages principales, nous allons énoncé chacune d’entre elles en décrivant leurs utilité et aussi la manière dont elles ont été produites</description>
+    </item>
+    
+    <item>
+      <title>PROJET 5: PARTICIPATION AU CONCOURS D&#39;ESTIMATION DE PRIX DE MAISONS ZILLOW PRIZE AUX ÉTATS-UNIS EN PYTHON (KAGGLE)</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet5/</link>
+      <pubDate>Tue, 12 Nov 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet5/</guid>
+      <description>Une maison est souvent l’achat le plus important et le plus coûteux qu’une personne fait au cours de sa vie. Il est extrêmement important de s’assurer que les propriétaires de maison ont un moyen fiable de surveiller cet actif. Le Prix Zillow, un concours doté d’un grand prix d’un million de dollars, met au défi la communauté scientifique des données de contribuer à pousser encore plus loin la précision de la Zestimate.</description>
+    </item>
+    
+    <item>
+      <title>PROJET 6: PRÉVISIONS PAR LISSAGE ET PAR LA MÉTHODE DE BOX-JENKINS SUR UNE SÉRIE CHRONOLOGIQUE MENSUELLE ( DES INDICATEURS SYNTHÉTIQUES DU CLIMAT DES AFFAIRES EN FRANCE).</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet6/</link>
+      <pubDate>Tue, 13 Aug 2019 11:15:58 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet6/</guid>
+      <description>L’indicateur synthétique mensuel présenté dans cet série constitue un résumé de l’information contenue dansl’enquête de conjoncture dans les services. Il est obtenu par extraction d’un signal commun à trois séries defréquence mensuelle et trois de fréquence trimestrielle.
+L’indicateur synthétique est le résultat de l’estimationd’un modèle à composantes inobservables.
+L’indicateur synthétique comprennent et appliqué aux trois sous-secteurs couverts par l’enquête de conjonc-ture dans les services :
+  Services aux entreprises.</description>
+    </item>
+    
+    <item>
+      <title>PROJET 7: L’ANALYSE EN COMPOSANTES PRINCIPALES SUR UN JEUX DE DONNÉES :  SUR R.</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet7/</link>
+      <pubDate>Sun, 14 Apr 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet7/</guid>
+      <description>L&amp;rsquo;analyse en composantes principal consiste à transformer des variables liées entre elles en nouvelles variables décorrélées les unes des autres, Ces nouvelles variables sont nommées &amp;ldquo;composantes principales&amp;rdquo;, ou axes principaux.
+Elle permet au practicien de réduire le nombre de variables et de rendre l&amp;rsquo;information moins redondante.
+Les données utilisés dans mon projet sont disponibles dans le paquet ade4, il s&amp;rsquo;agit du jeu de données &amp;ldquo;seconde&amp;rdquo; qui contient les notes de 8 matières (nos variables) pour 22 étudiants.</description>
+    </item>
+    
+    <item>
+      <title>PROJET 8: PROJET DE STRUCTURATION DE DONNÉES POUR LA GESTION DES HÔTELS </title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet8/</link>
+      <pubDate>Mon, 14 Jan 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet8/</guid>
+      <description>Modélisations conceptuelle et relationnelle.
+  Implémentation de la base de données par requêtes SQL.
+  Structuration des données : XML/DTD.
+    lien vers le projet</description>
+    </item>
+    
+    <item>
+      <title>PROJET 9 : CONSTRUCTION D’UN ARBRE DE DÉCISION EN UTILISANT LES MÉTHODES ID3, CART, C4.5, CHAID </title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet9/</link>
+      <pubDate>Thu, 12 Jan 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet9/</guid>
+      <description>Les arbres de décision sont l’une des structures de données majeures de l’apprentissage statistique.
+Leur fonctionnement repose sur des heuristiques qui, tout en satisfaisant l’intuition, donnent des résultats remarquables.
+Leur structure arborescente les rend également lisibles par un être humain, contrairement à d’autres approches où le prédicateur construit est une « boîte noire ».
+Nous aborderons aussi (brièvement) l’extension aux Random Forests.
+On supposera le lecteur familier avec le contexte général de l’apprentissage supervisé.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./contact/</guid>
+      <description>   Je vous invite à prendre contact directement avec moi :      Par téléphone au : +33 6 05 85 69 06    Par Mail au : mohamed.benyassine.etu@univ-lille.fr     Suivez-moi sur ces plateformes de réseaux sociaux.
+   Plateforme URL     Linkedin : https://www.linkedin.com/in/mohamed-ben-yassine-8b7445170/   Github : https://github.com/benyassine-mohamed    </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ben Yassine Mohamed</title>
+    <link>https://benyassine-mohamed.github.io/MBY-portfolio/./tags/scene/</link>
+    <description>Recent content in scene on Ben Yassine Mohamed</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://benyassine-mohamed.github.io/MBY-portfolio/./tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PROJET 2: NETTOYAGE ET MANIPULATION DE DONNÉES SUR R</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet2/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet2/</guid>
+      <description>Nettoyage de données La description des problèmes de qualité et de formatage. Le calculer des statistiques pertinentes. La visualisation des résultats en utilisant la librairie ggplot2.   lien vers le projet</description>
+    </item>
+    
+    <item>
+      <title>PROJET 5: PARTICIPATION AU CONCOURS D&#39;ESTIMATION DE PRIX DE MAISONS ZILLOW PRIZE AUX ÉTATS-UNIS EN PYTHON (KAGGLE)</title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet5/</link>
+      <pubDate>Tue, 12 Nov 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet5/</guid>
+      <description>Une maison est souvent l’achat le plus important et le plus coûteux qu’une personne fait au cours de sa vie. Il est extrêmement important de s’assurer que les propriétaires de maison ont un moyen fiable de surveiller cet actif. Le Prix Zillow, un concours doté d’un grand prix d’un million de dollars, met au défi la communauté scientifique des données de contribuer à pousser encore plus loin la précision de la Zestimate.</description>
+    </item>
+    
+    <item>
+      <title>PROJET 9 : CONSTRUCTION D’UN ARBRE DE DÉCISION EN UTILISANT LES MÉTHODES ID3, CART, C4.5, CHAID </title>
+      <link>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet9/</link>
+      <pubDate>Thu, 12 Jan 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://benyassine-mohamed.github.io/MBY-portfolio/./post/projet9/</guid>
+      <description>Les arbres de décision sont l’une des structures de données majeures de l’apprentissage statistique.
+Leur fonctionnement repose sur des heuristiques qui, tout en satisfaisant l’intuition, donnent des résultats remarquables.
+Leur structure arborescente les rend également lisibles par un être humain, contrairement à d’autres approches où le prédicateur construit est une « boîte noire ».
+Nous aborderons aussi (brièvement) l’extension aux Random Forests.
+On supposera le lecteur familier avec le contexte général de l’apprentissage supervisé.</description>
+    </item>
+    
+  </channel>
+</rss>
